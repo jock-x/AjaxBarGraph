@@ -11,8 +11,8 @@
 修改而成 原来项目为通过excel读此项目基于AJAX读取数据
 ----
 
-效果图 
-<img src="https://img.shields.io/github/issues/Jannchie/Historical-ranking-data-visualization-based-on-d3.js.svg" alt="GitHub issues"/>
+效果图：
+<img src="https://github.com/jock-x/AjaxBarGraph/blob/master/bar.gif" alt="GIF"/>
 
 # 一句话用法
 
