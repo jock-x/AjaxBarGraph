@@ -5,7 +5,7 @@
 <h3 align="center">将历史数据排名转化为动态柱状图图表——AJAX版</h3>
 
 
-此项目基于 <a href="https://github.com/Jannchie/Historical-ranking-data-visualization-based-on-d3.js" style="text-decoration:none">
+此项目基于 <a target="_blank" href="https://github.com/Jannchie/Historical-ranking-data-visualization-based-on-d3.js" style="text-decoration:none">
      Historical-ranking-data-visualization-based-on-d3
     </a>
 修改而成 原来项目为通过excel读此项目基于AJAX读取数据
@@ -14,7 +14,7 @@
 效果图：
 <img src="https://github.com/jock-x/AjaxBarGraph/blob/master/bar.gif" alt="GIF"/>
 
-# 一句话用法
+# 用法
 
 只需打开src目录下的bargraph.html，便可以看到可视化的结果。如果需要展示其他数据需要修改AJAX地址读取其余地址返回的数据
 
